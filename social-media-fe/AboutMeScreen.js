@@ -10,10 +10,10 @@ const AboutMeScreen = () => {
                     style={styles.avatar}
                 />
                 <Text style={styles.header}>Thông tin cá nhân</Text>
-                <Text style={styles.text}><Text style={styles.bold}>Tên:</Text> Lê Tân</Text>
+                <Text style={styles.text}><Text style={styles.bold}>Tên:</Text> Phạm Quốc Trung</Text>
                 <Text style={styles.text}><Text style={styles.bold}>Tuổi:</Text> 21</Text>
                 <Text style={styles.text}><Text style={styles.bold}>Nghề nghiệp:</Text> Sinh viên</Text>
-                <Text style={styles.text}><Text style={styles.bold}>Địa chỉ:</Text> Đường số 11, Bình Thọ, Võ Văn Ngân, Thủ Đức, Thành phố Hồ Chí Minh</Text>
+                <Text style={styles.text}><Text style={styles.bold}>Địa chỉ:</Text> Đường số 13A, Đường 12D, Long Thạnh Mỹ, Thủ Đức, Thành phố Hồ Chí Minh</Text>
             </View>
         </ScrollView>
     );
